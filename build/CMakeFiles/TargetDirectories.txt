@@ -1,0 +1,11 @@
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/CMakeFiles/intrinsics_gen.dir
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/CMakeFiles/omp_gen.dir
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/CMakeFiles/acc_gen.dir
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/CMakeFiles/ARMTargetParserTableGen.dir
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/CMakeFiles/AArch64TargetParserTableGen.dir
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/CMakeFiles/RISCVTargetParserTableGen.dir
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/store_prop/CMakeFiles/store_prop.dir
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/store_prop/CMakeFiles/edit_cache.dir
+/mnt/c/Users/dhrum/OneDrive/Desktop/Compilers/cpass/build/store_prop/CMakeFiles/rebuild_cache.dir
